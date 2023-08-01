@@ -1,0 +1,17 @@
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\bin\Debug\net6.0-windows\FalyaForm.exe
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\bin\Debug\net6.0-windows\FalyaForm.deps.json
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\bin\Debug\net6.0-windows\FalyaForm.runtimeconfig.json
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\bin\Debug\net6.0-windows\FalyaForm.dll
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\bin\Debug\net6.0-windows\FalyaForm.pdb
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.vbproj.AssemblyReference.cache
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.Form1.resources
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.vbproj.GenerateResource.cache
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.AssemblyInfoInputs.cache
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.AssemblyInfo.vb
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.vbproj.CoreCompileInputs.cache
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.dll
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\refint\FalyaForm.dll
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.pdb
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\FalyaForm.genruntimeconfig.cache
+C:\Users\cheli\source\repos\FalyaForm\FalyaForm\obj\Debug\net6.0-windows\ref\FalyaForm.dll
